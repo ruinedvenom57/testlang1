@@ -1,8 +1,14 @@
 
-# **My Yu-Gi-Oh opinions**
+# **My Yu-Gi-Oh Opinions**
 
 Hello, my name is Brandon Barnett and I am 23 years old.  I live in Middletown Ohio and have my ~~entire life~~ most my life.
-My favorite hobby is Yu-Gi-Oh! and i have played it for eleven years. My favorite decks I have played is
+My favorite hobby is Yu-Gi-Oh! and i have played it for eleven years. 
+```javascript
+var s = "JavaScript syntax highlighting
+```Here are some basics of the game. There are three types of cards, Monsters, Spells and Traps. Monsters have multiple different versions such as normal, effect, ritual, fusion, synchro, xyz, pendulum, amd link.";
+alert(s);
+
+My favorite decks I have played is
 1. Dragon Rulers
 2. Dark Magician
 ..* Fusion from 2020 and link from 2018
