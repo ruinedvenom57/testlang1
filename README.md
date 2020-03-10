@@ -13,10 +13,19 @@ My favorite hobby is Yu-Gi-Oh! and i have played it for eleven years. My favorit
 6. Different Dimension Demons
 7. Vampires 
 8. Zoodiac
+9. Blue-Eyes
 
 My favorite Yu-Gi-Oh! youtuber is [Cimooooooo](https://www.youtube.com/channel/UCrEMDvUyGV1p66Vf5P0O1pg)
-My two favorite Yu-Gi-Oh! card arts are Darklord Ixchel![Darklord Ixchel](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5cdeafc-dfb9-449a-b254-0a0f947dfbde/daj3vgk-11379ed5-8578-4271-a809-2bec45853924.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U1Y2RlYWZjLWRmYjktNDQ5YS1iMjU0LTBhMGY5NDdkZmJkZVwvZGFqM3Znay0xMTM3OWVkNS04NTc4LTQyNzEtYTgwOS0yYmVjNDU4NTM5MjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pJULhPRzDpHmDtmcB6_vBwQLJxLqaY_SkarespVlK0E)
+My two favorite Yu-Gi-Oh! card arts are Darklord Ixchel![Darklord Ixchel](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5cdeafc-dfb9-449a-b254-0a0f947dfbde/daj3vgk-11379ed5-8578-4271-a809-2bec45853924.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U1Y2RlYWZjLWRmYjktNDQ5YS1iMjU0LTBhMGY5NDdkZmJkZVwvZGFqM3Znay0xMTM3OWVkNS04NTc4LTQyNzEtYTgwOS0yYmVjNDU4NTM5MjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pJULhPRzDpHmDtmcB6_vBwQLJxLqaY_SkarespVlK0E) 
 and Vampire Fraulien ![Vampire Fraulien](https://i.imgur.com/nPgjbMU.png)
+
+In terms of my top three favorite cards, it goes like this.
+
+| Monster Name  | Deck          | Rank  |
+| ------------- |:-------------:| -----:|
+| Blaster, Dragon Ruler of infernoes | Dragon Rulers | 1 |
+| Dragun of Red-Eyes    | Dark Magician   |  2 |
+| Blue-Eyes Alternative Dragon | Blue-Eyes     |   3 |
 
 *Sincerely*
 Brandon Barnett
